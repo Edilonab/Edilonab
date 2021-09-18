@@ -1,4 +1,4 @@
-## Olá! Eu sou a Edilonab
+## Olá! Eu sou a Edilon Abranches
 
 - 🌱 Estudando front-end 
 ##

@@ -1,6 +1,7 @@
 ### Hi there Eu sou Edilon Abranches👋
-  ! [ Animação de cobra ] (https://github.com/Edilonab/Edilonab/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+! [ Animação de cobra ] (https://github.com/Edilonab/Edilonab/blob/output/github-contribution-grid-snake.svg)
+<div>
 <!--
 **Edilonab/Edilonab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

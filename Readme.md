@@ -1,4 +1,4 @@
-## Olá! Eu sou a Edilon Abranches
+## Olá! Eu sou Edilon Abranches
 
 - 🌱 Estudando front-end, Black-end ...🚀
 
@@ -6,6 +6,7 @@
 
 ##
 <div>
+  
   <a href="https://beacons.ai/Edilonab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilonab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilonab&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -26,10 +27,10 @@
   
 <div>
  
-  <a href="https://www.instagram.com/edilonab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edilon-abranches-01045b115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/edilonab/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/edilon-abranches-01045b115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/edilonab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/Edilonab/Edilonab/blob/output/github-contribution-grid-snake.svg)

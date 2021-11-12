@@ -1,6 +1,9 @@
 ## Olá! Eu sou a Edilon Abranches
 
-- 🌱 Estudando front-end 
+- 🌱 Estudando front-end, Black-end ...🚀
+
+""A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso""
+
 ##
 <div>
   <a href="https://beacons.ai/Edilonab">
@@ -16,7 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Edilonab-gif" src="">
+  <!--<img align="right" alt="Edilonab-gif" src=""-->
 </div>
   
 ##
